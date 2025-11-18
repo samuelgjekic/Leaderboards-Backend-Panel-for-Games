@@ -27,6 +27,10 @@ This will allow you to log into the admin panel and:
 - View existing leaderboards  
 - Edit or delete leaderboards  
 - Manage leaderboard entries  
+<img width="1692" height="808" alt="image" src="https://github.com/user-attachments/assets/23c8a741-25b8-479e-9ebe-78bdddc53cb5" />
+<img width="1706" height="848" alt="image" src="https://github.com/user-attachments/assets/af444f51-0252-4353-8a6a-dacda581ceb6" />
+
+
 
 ---
 
